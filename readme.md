@@ -4,30 +4,28 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+  <a href="https://github.com/LeoMiguelSeda">
+  <img src="./assets/img/ProfilePic.png" alt="ProfilePic" width="300" height="400">
   </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+
+  <h3 align="center">Personal Website</h3>
 </div>
-<!-- TODO: Make a short description -->
+
 <div align="center">
-  Short Description. (Optional)
+  This is my Personal Website that I created for all the lessons I learned from the class.
 </div>
 
 <br />
 
-<!-- TODO: Change the zyx-0314 into your github username  -->
-<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+
+![](https://visit-counter.vercel.app/counter.png?page=LeoMiguelSeda/WD-Finals)
 
 ---
 
 <br />
 <br />
 
-<!-- TODO: If you want to add more layers for your readme -->
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -48,6 +46,9 @@
     <li>
       <a href="#resources">Resources</a>
     </li>
+    <li>
+      <a href="#deployment-link">Deployment link</a>
+    </li>
   </ol>
 </details>
 
@@ -55,28 +56,27 @@
 
 ## Overview
 
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-Description of the project in details.
+
+
+
+This repository documents our learning and practical application of concepts covered during the term for Web Design. Here, we detail how we applied theoretical knowledge in hands-on technical projects. This README serves as a guide to understand the scope of our work, showcasing the practical outcomes and demonstrating our understanding of the course material in real-world scenarios.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- This project if for making a Personal Website
+- This shows on how we apply the lessons we learned at during our journey to this course
+- It is a MultiPage Website where you can click navigations and buttons to riderect to the pages or repository in github
+- The Technology I used are HTML and CSS I applied it for all pages because it's more easy to make it.
 
 ### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+
+- MultiPage Website
+
 
 ### Technology
-<!-- TODO: List of Technology Used -->
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -114,7 +114,10 @@ WD-ProjectName
 
 ## Resources
 
-<!-- TODO: Add References -->
+
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Build a Complete Responsive Personal Portfolio Website using HTML CSS Javascript | This is the reference I used to make this final project but instead I didn't use a javascript | https://www.youtube.com/watch?v=Tkp3FDgOueM&ab_channel=Codehal |
+
+## Deployment Link:
+https://leomiguelseda.github.io/WD-Finals/
